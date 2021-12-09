@@ -2,4 +2,4 @@
 # Clear-React-Webpack-Project
 * Clear and ready-to-use  R.W. project.
 * Just download and start to use!
-* create-react-app is now necessary anymore ;)
+* create-react-app is not necessary anymore ;)
