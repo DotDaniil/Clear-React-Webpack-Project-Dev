@@ -42,5 +42,6 @@ module.exports = {
         port: 3000,
         open: true,
         hot: IS_DEV
-    }
+    },
+    devtool: setupDevtool(),
 };
